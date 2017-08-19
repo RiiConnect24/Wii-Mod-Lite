@@ -1,5 +1,5 @@
 # WiiMod Lite
-<img src="https://riiconnect24.net/images/Wii_Mod_Lite_Logo.png" alt="Wii Mod Lite Logo" />
+<img src="https://rc24.xyz/images/wiimodlite/Wii_Mod_Lite_Logo.png" alt="Wii Mod Lite Logo" />
 
 <img src="http://art.gametdb.com/wii/cover3D/US/DLIA.png" alt="Wii Mod Lite Cover" />
 
