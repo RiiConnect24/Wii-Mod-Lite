@@ -8,3 +8,5 @@ WiiMod Lite is a better version of WiiMod with Wii and vWii support that can ins
 This tool was made by Kkline38 but there's more credits in this program.
 
 <a href="http://gametdb.com/Wii/DLIA">GameTDB Page</a>
+
+Download the latest version of Wii Mod Lite <a href="https://github.com/RiiConnect24/Wii-Mod-Lite/releases">here</a>.
